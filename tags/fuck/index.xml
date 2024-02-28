@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fuck on soriano7788 blog Liva | Personal blog template</title>
+    <link>https://soriano7788.github.io/tags/fuck/</link>
+    <description>Recent content in Fuck on soriano7788 blog Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 17 Feb 2024 10:20:30 +0800</lastBuildDate>
+    <atom:link href="https://soriano7788.github.io/tags/fuck/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>練習測試用第一篇文章</title>
+      <link>https://soriano7788.github.io/blog/test/</link>
+      <pubDate>Sat, 17 Feb 2024 10:20:30 +0800</pubDate>
+      <guid>https://soriano7788.github.io/blog/test/</guid>
+      <description>Hello World&#xA;Hello JAVA&#xA;一級標題 二級標題 三級標題 四級標題 五級標題 六級標題 測試粗體文字</description>
+    </item>
+  </channel>
+</rss>
